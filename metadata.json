@@ -1,0 +1,12 @@
+{
+  "rows": 150,
+  "columns": [
+    "sepal length (cm)",
+    "sepal width (cm)",
+    "petal length (cm)",
+    "petal width (cm)",
+    "target"
+  ],
+  "source": "sklearn.datasets.load_iris",
+  "sha256": "2a142890aa4d797b0e8746373626a5d81d839bb5a4fd60ac1fbeee6faf0f62d5"
+}
